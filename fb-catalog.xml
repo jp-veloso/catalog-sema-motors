@@ -1,1229 +1,2785 @@
-<?xml version="1.0" encoding="utf-8"?>
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <listings>
-	<title>Estoque Veículos</title>
-	<link rel="self" href="https://semamotors.com.br"/>
-	<listing>
-		<vehicle_id>833925</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>Q3 P. Plus 1.4 TFSI Flex/P.Plus S-tronic</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/833925/q3-p-plus-1-4-tfsi-flex-p-plus-s-tronic</url>
-		<make>Audi</make>
-		<model>Q3</model>
-		<version>Q3 P. Plus 1.4 TFSI Flex/P.Plus S-tronic</version>
-		<year>2020</year>
-		<mileage>
-			<value>6366</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2025/833925/gb-09664f2.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>GASOLINE</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>AUTOMATIC</transmission>
-		<price>164900 BRL</price>
-		<sale_price>164900 BRL</sale_price>
-		<exterior_color>cinza</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>833947</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>ONIX SEDAN Plus LTZ 1.0 12V TB Flex Mec.</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/833947/onix-sedan-plus-ltz-1-0-12v-tb-flex-mec</url>
-		<make>GM - Chevrolet</make>
-		<model>ONIX</model>
-		<version>ONIX SEDAN Plus LTZ 1.0 12V TB Flex Mec.</version>
-		<year>2022</year>
-		<mileage>
-			<value>77200</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2025/833947/gb-8953a9d.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>MANUAL</transmission>
-		<price>73900 BRL</price>
-		<sale_price>73900 BRL</sale_price>
-		<exterior_color>prata</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>833955</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>ONIX SEDAN Plus LTZ 1.0 12V TB Flex Mec.</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/833955/onix-sedan-plus-ltz-1-0-12v-tb-flex-mec</url>
-		<make>GM - Chevrolet</make>
-		<model>ONIX</model>
-		<version>ONIX SEDAN Plus LTZ 1.0 12V TB Flex Mec.</version>
-		<year>2023</year>
-		<mileage>
-			<value>46984</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2025/833955/gb-80225f2.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>MANUAL</transmission>
-		<price>77900 BRL</price>
-		<sale_price>77900 BRL</sale_price>
-		<exterior_color>prata</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>833968</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>PRISMA Sed. LTZ 1.4 8V FlexPower 4p</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/833968/prisma-sed-ltz-1-4-8v-flexpower-4p</url>
-		<make>GM - Chevrolet</make>
-		<model>PRISMA</model>
-		<version>PRISMA Sed. LTZ 1.4 8V FlexPower 4p</version>
-		<year>2016</year>
-		<mileage>
-			<value>153530</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2025/833968/gb-bbb93c6.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>MANUAL</transmission>
-		<price>57900 BRL</price>
-		<sale_price>57900 BRL</sale_price>
-		<exterior_color>cinza</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>834003</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>CRONOS DRIVE 1.3 8V Flex</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/834003/cronos-drive-1-3-8v-flex</url>
-		<make>Fiat</make>
-		<model>CRONOS</model>
-		<version>CRONOS DRIVE 1.3 8V Flex</version>
-		<year>2020</year>
-		<mileage>
-			<value>115049</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2025/834003/gb-87f3216.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>MANUAL</transmission>
-		<price>63900 BRL</price>
-		<sale_price>63900 BRL</sale_price>
-		<exterior_color>branca</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>834014</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>CRONOS 1.3 8V Flex</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/834014/cronos-1-3-8v-flex</url>
-		<make>Fiat</make>
-		<model>CRONOS</model>
-		<version>CRONOS 1.3 8V Flex</version>
-		<year>2019</year>
-		<mileage>
-			<value>112342</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2025/834014/gb-06c2fc9.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>MANUAL</transmission>
-		<price>63900 BRL</price>
-		<sale_price>63900 BRL</sale_price>
-		<exterior_color>preta</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>834038</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>PULSE DRIVE 1.3 8V Flex Aut.</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/834038/pulse-drive-1-3-8v-flex-aut</url>
-		<make>Fiat</make>
-		<model>PULSE</model>
-		<version>PULSE DRIVE 1.3 8V Flex Aut.</version>
-		<year>2023</year>
-		<mileage>
-			<value>65220</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2025/834038/gb-e4f54c0.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>AUTOMATIC</transmission>
-		<price>94900 BRL</price>
-		<sale_price>94900 BRL</sale_price>
-		<exterior_color>preta</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>834066</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>Ka 1.5 SE Plus 12V Flex 5p Aut.</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/834066/ka-1-5-se-plus-12v-flex-5p-aut</url>
-		<make>Ford</make>
-		<model>Ka</model>
-		<version>Ka 1.5 SE Plus 12V Flex 5p Aut.</version>
-		<year>2020</year>
-		<mileage>
-			<value>69614</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2025/834066/gb-4de1522.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>AUTOMATIC</transmission>
-		<price>61900 BRL</price>
-		<sale_price>61900 BRL</sale_price>
-		<exterior_color>branca</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>834105</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>HB20 Comf./C.Plus/C.Style 1.0 Flex 12V</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/834105/hb20-comf-c-plus-c-style-1-0-flex-12v</url>
-		<make>Hyundai</make>
-		<model>HB20</model>
-		<version>HB20 Comf./C.Plus/C.Style 1.0 Flex 12V</version>
-		<year>2017</year>
-		<mileage>
-			<value>146777</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2025/834105/gb-d6a770f.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>MANUAL</transmission>
-		<price>51900 BRL</price>
-		<sale_price>51900 BRL</sale_price>
-		<exterior_color>prata</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>834178</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>DUSTER Dynamique 1.6 Flex 16V Mec.</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/834178/duster-dynamique-1-6-flex-16v-mec</url>
-		<make>Renault</make>
-		<model>DUSTER</model>
-		<version>DUSTER Dynamique 1.6 Flex 16V Mec.</version>
-		<year>2013</year>
-		<mileage>
-			<value>125522</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2025/834178/gb-6e1896e.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>MANUAL</transmission>
-		<price>52900 BRL</price>
-		<sale_price>52900 BRL</sale_price>
-		<exterior_color>prata</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>834184</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>KWID Zen 1.0 Flex 12V 5p Mec.</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/834184/kwid-zen-1-0-flex-12v-5p-mec</url>
-		<make>Renault</make>
-		<model>KWID</model>
-		<version>KWID Zen 1.0 Flex 12V 5p Mec.</version>
-		<year>2023</year>
-		<mileage>
-			<value>68200</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2025/834184/gb-c755d7c.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>MANUAL</transmission>
-		<price>49900 BRL</price>
-		<sale_price>49900 BRL</sale_price>
-		<exterior_color>branca</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>834204</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>T-Cross 200 TSI 1.0  Flex 12V 5p Aut.</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/834204/t-cross-200-tsi-1-0-flex-12v-5p-aut</url>
-		<make>VW - VolksWagen</make>
-		<model>T-Cross</model>
-		<version>T-Cross 200 TSI 1.0  Flex 12V 5p Aut.</version>
-		<year>2021</year>
-		<mileage>
-			<value>91890</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2025/834204/gb-ed4c1ce.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>AUTOMATIC</transmission>
-		<price>97900 BRL</price>
-		<sale_price>97900 BRL</sale_price>
-		<exterior_color>branca</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>835266</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/835266/fit-ex-s-1-5-flex-flexone-16v-5p-aut</url>
-		<make>Honda</make>
-		<model>Fit</model>
-		<version>Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.</version>
-		<year>2019</year>
-		<mileage>
-			<value>58170</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2025/835266/gb-9b6d53f.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>OTHER</transmission>
-		<price>85900 BRL</price>
-		<sale_price>85900 BRL</sale_price>
-		<exterior_color>vermelha</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>847068</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>Fiesta 1.0 8V Flex/Class 1.0 8V Flex 5p</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/847068/fiesta-1-0-8v-flex-class-1-0-8v-flex-5p</url>
-		<make>Ford</make>
-		<model>Fiesta</model>
-		<version>Fiesta 1.0 8V Flex/Class 1.0 8V Flex 5p</version>
-		<year>2014</year>
-		<mileage>
-			<value>108571</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2026/847068/gb-d028886.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>MANUAL</transmission>
-		<price>34900 BRL</price>
-		<sale_price>34900 BRL</sale_price>
-		<exterior_color>prata</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>847071</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>UNO VIVACE 1.0 EVO Fire Flex 8V 3p</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/847071/uno-vivace-1-0-evo-fire-flex-8v-3p</url>
-		<make>Fiat</make>
-		<model>UNO</model>
-		<version>UNO VIVACE 1.0 EVO Fire Flex 8V 3p</version>
-		<year>2013</year>
-		<mileage>
-			<value>107378</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2025/847071/gb-76aade9.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>MANUAL</transmission>
-		<price>33900 BRL</price>
-		<sale_price>33900 BRL</sale_price>
-		<exterior_color>preta</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>847076</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>Ka+ Sedan 1.5 SE/SE PLUS 16V Flex 4p</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/847076/ka-sedan-1-5-se-se-plus-16v-flex-4p</url>
-		<make>Ford</make>
-		<model>Ka+</model>
-		<version>Ka+ Sedan 1.5 SE/SE PLUS 16V Flex 4p</version>
-		<year>2018</year>
-		<mileage>
-			<value>221875</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2025/847076/gb-d2b0b76.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>MANUAL</transmission>
-		<price>44900 BRL</price>
-		<sale_price>44900 BRL</sale_price>
-		<exterior_color>branca</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>847079</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>COBALT LTZ 1.8 8V Econo.Flex 4p Aut.</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/847079/cobalt-ltz-1-8-8v-econo-flex-4p-aut</url>
-		<make>GM - Chevrolet</make>
-		<model>COBALT</model>
-		<version>COBALT LTZ 1.8 8V Econo.Flex 4p Aut.</version>
-		<year>2015</year>
-		<mileage>
-			<value>187120</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2026/847079/gb-834e1c3.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>AUTOMATIC</transmission>
-		<price>47900 BRL</price>
-		<sale_price>47900 BRL</sale_price>
-		<exterior_color>branca</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>847082</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>Ka 1.0 SE/SE Plus TiVCT Flex 5p</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/847082/ka-1-0-se-se-plus-tivct-flex-5p</url>
-		<make>Ford</make>
-		<model>Ka</model>
-		<version>Ka 1.0 SE/SE Plus TiVCT Flex 5p</version>
-		<year>2017</year>
-		<mileage>
-			<value>85138</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2025/847082/gb-be12d7a.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>MANUAL</transmission>
-		<price>41900 BRL</price>
-		<sale_price>41900 BRL</sale_price>
-		<exterior_color>prata</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>847360</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>Corolla GLi 1.8 Flex 16V  Aut.</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/847360/corolla-gli-1-8-flex-16v-aut</url>
-		<make>Toyota</make>
-		<model>Corolla</model>
-		<version>Corolla GLi 1.8 Flex 16V  Aut.</version>
-		<year>2014</year>
-		<mileage>
-			<value>122779</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2025/847360/gb-77628ce.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>AUTOMATIC</transmission>
-		<price>71900 BRL</price>
-		<sale_price>71900 BRL</sale_price>
-		<exterior_color>preta</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>848266</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>2008 Allure 1.6 Flex 16V 5p Aut.</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/848266/2008-allure-1-6-flex-16v-5p-aut</url>
-		<make>Peugeot</make>
-		<model>2008</model>
-		<version>2008 Allure 1.6 Flex 16V 5p Aut.</version>
-		<year>2018</year>
-		<mileage>
-			<value>98557</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2025/848266/gb-201c28a.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>OTHER</transmission>
-		<price>61900 BRL</price>
-		<sale_price>61900 BRL</sale_price>
-		<exterior_color>branca</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>848589</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>XRE 300/ 300 ABS/ FLEX</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/848589/xre-300-300-abs-flex</url>
-		<make>HONDA</make>
-		<model>XRE</model>
-		<version>XRE 300/ 300 ABS/ FLEX</version>
-		<year>2015</year>
-		<mileage>
-			<value>80400</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2026/848589/gb-22a07cf.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>OTHER</transmission>
-		<price>21900 BRL</price>
-		<sale_price>21900 BRL</sale_price>
-		<exterior_color>branca</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>850845</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>Creta Prestige 2.0 16V Flex Aut.</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/850845/creta-prestige-2-0-16v-flex-aut</url>
-		<make>Hyundai</make>
-		<model>Creta</model>
-		<version>Creta Prestige 2.0 16V Flex Aut.</version>
-		<year>2020</year>
-		<mileage>
-			<value>100333</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2026/850845/gb-496ec82.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>OTHER</transmission>
-		<price>99900 BRL</price>
-		<sale_price>99900 BRL</sale_price>
-		<exterior_color>branca</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>853119</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>COMPASS SPORT T270 1.3 TB 4x2 Flex Aut.</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/853119/compass-sport-t270-1-3-tb-4x2-flex-aut</url>
-		<make>Jeep</make>
-		<model>COMPASS</model>
-		<version>COMPASS SPORT T270 1.3 TB 4x2 Flex Aut.</version>
-		<year>2026</year>
-		<mileage>
-			<value>2181</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2025/853119/gb-79c3b79.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>OTHER</transmission>
-		<price>159900 BRL</price>
-		<sale_price>159900 BRL</sale_price>
-		<exterior_color>branca</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>853674</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>KICKS Active S 1.6 16V Flex Aut.</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/853674/kicks-active-s-1-6-16v-flex-aut</url>
-		<make>Nissan</make>
-		<model>KICKS</model>
-		<version>KICKS Active S 1.6 16V Flex Aut.</version>
-		<year>2021</year>
-		<mileage>
-			<value>108087</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2026/853674/gb-4f06d5b.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>OTHER</transmission>
-		<price>88900 BRL</price>
-		<sale_price>88900 BRL</sale_price>
-		<exterior_color>prata</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>854808</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>EcoSport FREESTYLE 1.5 12V Flex 5p Aut.</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/854808/ecosport-freestyle-1-5-12v-flex-5p-aut</url>
-		<make>Ford</make>
-		<model>EcoSport</model>
-		<version>EcoSport FREESTYLE 1.5 12V Flex 5p Aut.</version>
-		<year>2018</year>
-		<mileage>
-			<value>81318</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2026/854808/gb-0ca784b.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>AUTOMATIC</transmission>
-		<price>72900 BRL</price>
-		<sale_price>72900 BRL</sale_price>
-		<exterior_color>branca</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>858121</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>Saveiro CROSS 1.6 T.Flex 16V CD</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/858121/saveiro-cross-1-6-t-flex-16v-cd</url>
-		<make>VW - VolksWagen</make>
-		<model>Saveiro</model>
-		<version>Saveiro CROSS 1.6 T.Flex 16V CD</version>
-		<year>2015</year>
-		<mileage>
-			<value>127700</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2026/858121/gb-fa4d384.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>OTHER</transmission>
-		<price>72900 BRL</price>
-		<sale_price>72900 BRL</sale_price>
-		<exterior_color>prata</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>858122</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>VIRTUS TSI 1.0 Flex 12V 4p Aut.</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/858122/virtus-tsi-1-0-flex-12v-4p-aut</url>
-		<make>VW - VolksWagen</make>
-		<model>VIRTUS</model>
-		<version>VIRTUS TSI 1.0 Flex 12V 4p Aut.</version>
-		<year>2024</year>
-		<mileage>
-			<value>73676</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2026/858122/gb-ca8e802.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>AUTOMATIC</transmission>
-		<price>99900 BRL</price>
-		<sale_price>99900 BRL</sale_price>
-		<exterior_color>prata</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>858128</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>Fox Xtreme 1.6 Flex 8V 5p</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/858128/fox-xtreme-1-6-flex-8v-5p</url>
-		<make>VW - VolksWagen</make>
-		<model>Fox</model>
-		<version>Fox Xtreme 1.6 Flex 8V 5p</version>
-		<year>2020</year>
-		<mileage>
-			<value>70760</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2026/858128/gb-6f59271.jpeg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>MANUAL</transmission>
-		<price>67900 BRL</price>
-		<sale_price>67900 BRL</sale_price>
-		<exterior_color>preta</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>867910</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>Fox City 1.0Mi/ 1.0Mi Total Flex 8V 3p</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/867910/fox-city-1-0mi-1-0mi-total-flex-8v-3p</url>
-		<make>VW - VolksWagen</make>
-		<model>Fox</model>
-		<version>Fox City 1.0Mi/ 1.0Mi Total Flex 8V 3p</version>
-		<year>2008</year>
-		<mileage>
-			<value>150348</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2026/867910/gb-61e25f4.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>MANUAL</transmission>
-		<price>23900 BRL</price>
-		<sale_price>23900 BRL</sale_price>
-		<exterior_color>bege</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>875387</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>Strada Adventure1.8/ 1.8 LOCKER Flex CD</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/875387/strada-adventure1-8-1-8-locker-flex-cd</url>
-		<make>Fiat</make>
-		<model>Strada</model>
-		<version>Strada Adventure1.8/ 1.8 LOCKER Flex CD</version>
-		<year>2020</year>
-		<mileage>
-			<value>89461</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2026/875387/gb-04e9854.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>MANUAL</transmission>
-		<price>83900 BRL</price>
-		<sale_price>83900 BRL</sale_price>
-		<exterior_color>branca</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>877209</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>SPIN LTZ 1.8 8V Econo.Flex 5p Aut.</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/877209/spin-ltz-1-8-8v-econo-flex-5p-aut</url>
-		<make>GM - Chevrolet</make>
-		<model>SPIN</model>
-		<version>SPIN LTZ 1.8 8V Econo.Flex 5p Aut.</version>
-		<year>2015</year>
-		<mileage>
-			<value>149509</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2026/877209/gb-b41e67a.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>OTHER</transmission>
-		<price>58900 BRL</price>
-		<sale_price>58900 BRL</sale_price>
-		<exterior_color>prata</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>877581</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>Sonata 2.4 16V 182cv 4p Aut.</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/877581/sonata-2-4-16v-182cv-4p-aut</url>
-		<make>Hyundai</make>
-		<model>Sonata</model>
-		<version>Sonata 2.4 16V 182cv 4p Aut.</version>
-		<year>2012</year>
-		<mileage>
-			<value>194380</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2026/877581/gb-c699c7d.jpeg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>GASOLINE</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>AUTOMATIC</transmission>
-		<price>68900 BRL</price>
-		<sale_price>68900 BRL</sale_price>
-		<exterior_color>preta</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>877936</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>ONIX HATCH 1.0 12V Flex 5p Mec.</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/877936/onix-hatch-1-0-12v-flex-5p-mec</url>
-		<make>GM - Chevrolet</make>
-		<model>ONIX</model>
-		<version>ONIX HATCH 1.0 12V Flex 5p Mec.</version>
-		<year>2021</year>
-		<mileage>
-			<value>54780</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2026/877936/gb-5baee2c.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>MANUAL</transmission>
-		<price>63900 BRL</price>
-		<sale_price>63900 BRL</sale_price>
-		<exterior_color>azul</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>878723</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>Renegade Longitude 1.8 4x2 Flex 16V Aut.</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/878723/renegade-longitude-1-8-4x2-flex-16v-aut</url>
-		<make>Jeep</make>
-		<model>Renegade</model>
-		<version>Renegade Longitude 1.8 4x2 Flex 16V Aut.</version>
-		<year>2016</year>
-		<mileage>
-			<value>65793</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2026/878723/gb-650fc5d.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>OTHER</transmission>
-		<price>69900 BRL</price>
-		<sale_price>69900 BRL</sale_price>
-		<exterior_color>branca</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>882842</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>MOBI LIKE 1.0 Fire Flex 5p.</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/882842/mobi-like-1-0-fire-flex-5p</url>
-		<make>Fiat</make>
-		<model>MOBI</model>
-		<version>MOBI LIKE 1.0 Fire Flex 5p.</version>
-		<year>2023</year>
-		<mileage>
-			<value>45518</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2026/882842/gb-f515c02.jpg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>GASOLINE</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>OTHER</transmission>
-		<price>55900 BRL</price>
-		<sale_price>55900 BRL</sale_price>
-		<exterior_color>cinza</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
-	<listing>
-		<vehicle_id>898284</vehicle_id>
-		<body_style>OTHER</body_style>
-		<title>Corsa Hat. Premium 1.4 8V ECONOFLEX 5p</title>
-		<description>Sema Motors</description>
-		<url>https://semamotors.com.br/veiculo/898284/corsa-hat-premium-1-4-8v-econoflex-5p</url>
-		<make>GM - Chevrolet</make>
-		<model>Corsa</model>
-		<version>Corsa Hat. Premium 1.4 8V ECONOFLEX 5p</version>
-		<year>2010</year>
-		<mileage>
-			<value>192326</value>
-			<unit>KM</unit>
-		</mileage>
-		<image>
-			<url>https://arquivos.boomsistemas.com.br/veiculos/2026/898284/gb-b16beb4.jpeg</url>
-			<tag>Exterior</tag>
-		</image>
-		<fuel_type>FLEX</fuel_type>
-		<state_of_vehicle>Used</state_of_vehicle>
-		<transmission>MANUAL</transmission>
-		<price>34900 BRL</price>
-		<sale_price>34900 BRL</sale_price>
-		<exterior_color>prata</exterior_color>
-		<address format="simple">
-			<component name="addr1">Av. Guilherme Ferreira 1084</component>
-			<component name="city">Uberada</component>
-			<component name="region">MG</component>
-			<component name="postal_code">38022200</component>
-			<component name="country">BR</component>
-		</address>
-		<latitude/>
-		<longitude/>
-	</listing>
+<title>Estoque Veículos</title>
+<link rel="self" href="https://semamotors.com.br"/>
+<listing>
+<vehicle_id>833947</vehicle_id>
+<body_style>OTHER</body_style>
+<title>ONIX SEDAN Plus LTZ 1.0 12V TB Flex Mec.</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/833947/onix-sedan-plus-ltz-1-0-12v-tb-flex-mec
+</url>
+<make>GM - Chevrolet</make>
+<model>ONIX</model>
+<version>ONIX SEDAN Plus LTZ 1.0 12V TB Flex Mec.</version>
+<year>2022</year>
+<mileage>
+<value>77200</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/833947/gb-8953a9d.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/833947/gb-afdb015.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/833947/gb-59d0be7.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/833947/gb-c2c754c.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/833947/gb-c48bbc5.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/833947/gb-2e5fd54.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/833947/gb-bd5b9b9.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/833947/gb-b138d78.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/833947/gb-bc40c6b.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/833947/gb-270a020.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>MANUAL</transmission>
+<price>73900 BRL</price>
+<sale_price>73900 BRL</sale_price>
+<exterior_color>prata</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>833968</vehicle_id>
+<body_style>OTHER</body_style>
+<title>PRISMA Sed. LTZ 1.4 8V FlexPower 4p</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/833968/prisma-sed-ltz-1-4-8v-flexpower-4p
+</url>
+<make>GM - Chevrolet</make>
+<model>PRISMA</model>
+<version>PRISMA Sed. LTZ 1.4 8V FlexPower 4p</version>
+<year>2016</year>
+<mileage>
+<value>153530</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/833968/gb-bbb93c6.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/833968/gb-1febeab.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/833968/gb-f5474ac.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/833968/gb-22f3ad8.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/833968/gb-971fd84.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/833968/gb-f68cd95.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/833968/gb-c875569.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/833968/gb-8bf90f3.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/833968/gb-605cee4.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>MANUAL</transmission>
+<price>57900 BRL</price>
+<sale_price>57900 BRL</sale_price>
+<exterior_color>cinza</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>834003</vehicle_id>
+<body_style>OTHER</body_style>
+<title>CRONOS DRIVE 1.3 8V Flex</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/834003/cronos-drive-1-3-8v-flex
+</url>
+<make>Fiat</make>
+<model>CRONOS</model>
+<version>CRONOS DRIVE 1.3 8V Flex</version>
+<year>2020</year>
+<mileage>
+<value>115049</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834003/gb-87f3216.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834003/gb-f7ee89a.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834003/gb-da4dd7a.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834003/gb-7e69d43.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834003/gb-2ef7a11.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834003/gb-714d1c4.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834003/gb-f3ee773.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834003/gb-759b93c.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834003/gb-96b0039.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834003/gb-83cf393.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>MANUAL</transmission>
+<price>63900 BRL</price>
+<sale_price>63900 BRL</sale_price>
+<exterior_color>branca</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>834014</vehicle_id>
+<body_style>OTHER</body_style>
+<title>CRONOS 1.3 8V Flex</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/834014/cronos-1-3-8v-flex
+</url>
+<make>Fiat</make>
+<model>CRONOS</model>
+<version>CRONOS 1.3 8V Flex</version>
+<year>2019</year>
+<mileage>
+<value>112342</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834014/gb-06c2fc9.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834014/gb-9a8664b.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834014/gb-31002f0.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834014/gb-1f4dd0f.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834014/gb-1f3ff4e.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834014/gb-831dbf0.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834014/gb-e3c733b.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834014/gb-1c4d2e0.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834014/gb-9f34e18.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834014/gb-bcba48d.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>MANUAL</transmission>
+<price>63900 BRL</price>
+<sale_price>63900 BRL</sale_price>
+<exterior_color>preta</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>834038</vehicle_id>
+<body_style>OTHER</body_style>
+<title>PULSE DRIVE 1.3 8V Flex Aut.</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/834038/pulse-drive-1-3-8v-flex-aut
+</url>
+<make>Fiat</make>
+<model>PULSE</model>
+<version>PULSE DRIVE 1.3 8V Flex Aut.</version>
+<year>2023</year>
+<mileage>
+<value>65220</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834038/gb-e4f54c0.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834038/gb-74ae098.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834038/gb-7577b6f.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834038/gb-3b5a749.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834038/gb-289b90d.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834038/gb-6981df6.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834038/gb-7c7ec98.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834038/gb-d158b4d.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834038/gb-fc92cc7.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834038/gb-bbb4d39.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>AUTOMATIC</transmission>
+<price>94900 BRL</price>
+<sale_price>94900 BRL</sale_price>
+<exterior_color>preta</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>834066</vehicle_id>
+<body_style>OTHER</body_style>
+<title>Ka 1.5 SE Plus 12V Flex 5p Aut.</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/834066/ka-1-5-se-plus-12v-flex-5p-aut
+</url>
+<make>Ford</make>
+<model>Ka</model>
+<version>Ka 1.5 SE Plus 12V Flex 5p Aut.</version>
+<year>2020</year>
+<mileage>
+<value>69614</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834066/gb-4de1522.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834066/gb-04a6b13.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834066/gb-e3d2a9e.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834066/gb-26d7f3f.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834066/gb-083f564.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834066/gb-c493d20.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834066/gb-9fe1fe0.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834066/gb-b0a93bd.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834066/gb-6602dee.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834066/gb-141463f.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>AUTOMATIC</transmission>
+<price>61900 BRL</price>
+<sale_price>61900 BRL</sale_price>
+<exterior_color>branca</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>834105</vehicle_id>
+<body_style>OTHER</body_style>
+<title>HB20 Comf./C.Plus/C.Style 1.0 Flex 12V</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/834105/hb20-comf-c-plus-c-style-1-0-flex-12v
+</url>
+<make>Hyundai</make>
+<model>HB20</model>
+<version>HB20 Comf./C.Plus/C.Style 1.0 Flex 12V</version>
+<year>2017</year>
+<mileage>
+<value>146777</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834105/gb-d6a770f.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834105/gb-220ab38.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834105/gb-a65f0a0.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834105/gb-cef83f8.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834105/gb-e053fe8.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834105/gb-5686c3e.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834105/gb-3ac483b.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834105/gb-772e184.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834105/gb-bbe9287.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834105/gb-2d235ab.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>MANUAL</transmission>
+<price>51900 BRL</price>
+<sale_price>51900 BRL</sale_price>
+<exterior_color>prata</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>834178</vehicle_id>
+<body_style>OTHER</body_style>
+<title>DUSTER Dynamique 1.6 Flex 16V Mec.</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/834178/duster-dynamique-1-6-flex-16v-mec
+</url>
+<make>Renault</make>
+<model>DUSTER</model>
+<version>DUSTER Dynamique 1.6 Flex 16V Mec.</version>
+<year>2013</year>
+<mileage>
+<value>125522</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834178/gb-6e1896e.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834178/gb-a44a22d.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834178/gb-8709c3b.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834178/gb-dde9a07.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834178/gb-4594833.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834178/gb-698e567.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834178/gb-96c3caa.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834178/gb-2b4042c.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834178/gb-47fec38.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/834178/gb-a2f9e94.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>MANUAL</transmission>
+<price>52900 BRL</price>
+<sale_price>52900 BRL</sale_price>
+<exterior_color>prata</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>834204</vehicle_id>
+<body_style>OTHER</body_style>
+<title>T-Cross 200 TSI 1.0 Flex 12V 5p Aut.</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/834204/t-cross-200-tsi-1-0-flex-12v-5p-aut
+</url>
+<make>VW - VolksWagen</make>
+<model>T-Cross</model>
+<version>T-Cross 200 TSI 1.0 Flex 12V 5p Aut.</version>
+<year>2021</year>
+<mileage>
+<value>91890</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/834204/gb-0fad3ae.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/834204/gb-3855e58.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/834204/gb-4987619.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/834204/gb-4573823.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/834204/gb-270ac8a.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/834204/gb-f664036.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/834204/gb-dda785c.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/834204/gb-fe27375.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/834204/gb-f9e4c86.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/834204/gb-eea8a89.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>AUTOMATIC</transmission>
+<price>94900 BRL</price>
+<sale_price>94900 BRL</sale_price>
+<exterior_color>branca</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>835266</vehicle_id>
+<body_style>OTHER</body_style>
+<title>Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/835266/fit-ex-s-1-5-flex-flexone-16v-5p-aut
+</url>
+<make>Honda</make>
+<model>Fit</model>
+<version>Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.</version>
+<year>2019</year>
+<mileage>
+<value>58170</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/835266/gb-9b6d53f.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/835266/gb-7e32702.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/835266/gb-389f23e.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/835266/gb-76f4c31.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/835266/gb-ed7e829.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/835266/gb-0cd44e3.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/835266/gb-e886a4e.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/835266/gb-ab6b9fb.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/835266/gb-b09764b.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/835266/gb-c676899.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>OTHER</transmission>
+<price>85900 BRL</price>
+<sale_price>85900 BRL</sale_price>
+<exterior_color>vermelha</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>847068</vehicle_id>
+<body_style>OTHER</body_style>
+<title>Fiesta 1.0 8V Flex/Class 1.0 8V Flex 5p</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/847068/fiesta-1-0-8v-flex-class-1-0-8v-flex-5p
+</url>
+<make>Ford</make>
+<model>Fiesta</model>
+<version>Fiesta 1.0 8V Flex/Class 1.0 8V Flex 5p</version>
+<year>2014</year>
+<mileage>
+<value>108571</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/847068/gb-d028886.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/847068/gb-4205624.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/847068/gb-ad99d42.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/847068/gb-af6ea09.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/847068/gb-f8f4735.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/847068/gb-40ad27a.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/847068/gb-fab5fcc.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/847068/gb-1b78334.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/847068/gb-c773a4a.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/847068/gb-8da8084.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>MANUAL</transmission>
+<price>34900 BRL</price>
+<sale_price>34900 BRL</sale_price>
+<exterior_color>prata</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>847071</vehicle_id>
+<body_style>OTHER</body_style>
+<title>UNO VIVACE 1.0 EVO Fire Flex 8V 3p</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/847071/uno-vivace-1-0-evo-fire-flex-8v-3p
+</url>
+<make>Fiat</make>
+<model>UNO</model>
+<version>UNO VIVACE 1.0 EVO Fire Flex 8V 3p</version>
+<year>2013</year>
+<mileage>
+<value>107378</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847071/gb-76aade9.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847071/gb-1cd30e1.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847071/gb-d6a378b.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847071/gb-d377731.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847071/gb-a8dc88a.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847071/gb-0f57d6a.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847071/gb-97f1324.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847071/gb-a35894f.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847071/gb-a6e8e11.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847071/gb-bc0bba0.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>MANUAL</transmission>
+<price>33900 BRL</price>
+<sale_price>33900 BRL</sale_price>
+<exterior_color>preta</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>847076</vehicle_id>
+<body_style>OTHER</body_style>
+<title>Ka+ Sedan 1.5 SE/SE PLUS 16V Flex 4p</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/847076/ka-sedan-1-5-se-se-plus-16v-flex-4p
+</url>
+<make>Ford</make>
+<model>Ka+</model>
+<version>Ka+ Sedan 1.5 SE/SE PLUS 16V Flex 4p</version>
+<year>2018</year>
+<mileage>
+<value>221875</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847076/gb-d2b0b76.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847076/gb-51e9131.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847076/gb-1a42d89.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847076/gb-d45aa25.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847076/gb-4b20ff1.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847076/gb-2d85612.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847076/gb-a50e46c.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847076/gb-bdfb087.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847076/gb-07c6f6f.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847076/gb-4298cea.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>MANUAL</transmission>
+<price>44900 BRL</price>
+<sale_price>44900 BRL</sale_price>
+<exterior_color>branca</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>847079</vehicle_id>
+<body_style>OTHER</body_style>
+<title>COBALT LTZ 1.8 8V Econo.Flex 4p Aut.</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/847079/cobalt-ltz-1-8-8v-econo-flex-4p-aut
+</url>
+<make>GM - Chevrolet</make>
+<model>COBALT</model>
+<version>COBALT LTZ 1.8 8V Econo.Flex 4p Aut.</version>
+<year>2015</year>
+<mileage>
+<value>187120</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/847079/gb-834e1c3.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/847079/gb-618e0d7.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/847079/gb-9c6e237.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/847079/gb-f4ed354.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/847079/gb-4fd8b9a.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/847079/gb-303689a.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/847079/gb-58cd2a9.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/847079/gb-09a8c69.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/847079/gb-d972ceb.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/847079/gb-991bafb.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>AUTOMATIC</transmission>
+<price>47900 BRL</price>
+<sale_price>47900 BRL</sale_price>
+<exterior_color>branca</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>847082</vehicle_id>
+<body_style>OTHER</body_style>
+<title>Ka 1.0 SE/SE Plus TiVCT Flex 5p</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/847082/ka-1-0-se-se-plus-tivct-flex-5p
+</url>
+<make>Ford</make>
+<model>Ka</model>
+<version>Ka 1.0 SE/SE Plus TiVCT Flex 5p</version>
+<year>2017</year>
+<mileage>
+<value>85138</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847082/gb-be12d7a.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847082/gb-9666603.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847082/gb-2814353.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847082/gb-797935d.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847082/gb-2f48091.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847082/gb-11701e5.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847082/gb-531a0a8.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847082/gb-feb33ad.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847082/gb-89f139a.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847082/gb-e790681.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>MANUAL</transmission>
+<price>41900 BRL</price>
+<sale_price>41900 BRL</sale_price>
+<exterior_color>prata</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>847360</vehicle_id>
+<body_style>OTHER</body_style>
+<title>Corolla GLi 1.8 Flex 16V Aut.</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/847360/corolla-gli-1-8-flex-16v-aut
+</url>
+<make>Toyota</make>
+<model>Corolla</model>
+<version>Corolla GLi 1.8 Flex 16V Aut.</version>
+<year>2014</year>
+<mileage>
+<value>122779</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847360/gb-77628ce.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847360/gb-a18db7e.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847360/gb-82c32f8.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847360/gb-dfb391e.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847360/gb-ac03f52.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847360/gb-49fb835.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847360/gb-f39b02f.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847360/gb-e2bd2fe.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847360/gb-3c0a049.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/847360/gb-1604823.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>AUTOMATIC</transmission>
+<price>69900 BRL</price>
+<sale_price>69900 BRL</sale_price>
+<exterior_color>preta</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>848266</vehicle_id>
+<body_style>OTHER</body_style>
+<title>2008 Allure 1.6 Flex 16V 5p Aut.</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/848266/2008-allure-1-6-flex-16v-5p-aut
+</url>
+<make>Peugeot</make>
+<model>2008</model>
+<version>2008 Allure 1.6 Flex 16V 5p Aut.</version>
+<year>2018</year>
+<mileage>
+<value>98557</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/848266/gb-201c28a.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/848266/gb-00d8dc9.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/848266/gb-9906060.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/848266/gb-d96f76b.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/848266/gb-c09d7ca.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/848266/gb-78c19f9.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/848266/gb-5f02d6f.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/848266/gb-3381745.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/848266/gb-28cdb21.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2025/848266/gb-72f55cb.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>OTHER</transmission>
+<price>61900 BRL</price>
+<sale_price>61900 BRL</sale_price>
+<exterior_color>branca</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>848589</vehicle_id>
+<body_style>OTHER</body_style>
+<title>XRE 300/ 300 ABS/ FLEX</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/848589/xre-300-300-abs-flex
+</url>
+<make>HONDA</make>
+<model>XRE</model>
+<version>XRE 300/ 300 ABS/ FLEX</version>
+<year>2015</year>
+<mileage>
+<value>80400</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/848589/gb-22a07cf.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/848589/gb-bd086e4.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/848589/gb-827c43c.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/848589/gb-7af17a5.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/848589/gb-7e9ff23.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>OTHER</transmission>
+<price>21900 BRL</price>
+<sale_price>21900 BRL</sale_price>
+<exterior_color>branca</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>850845</vehicle_id>
+<body_style>OTHER</body_style>
+<title>Creta Prestige 2.0 16V Flex Aut.</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/850845/creta-prestige-2-0-16v-flex-aut
+</url>
+<make>Hyundai</make>
+<model>Creta</model>
+<version>Creta Prestige 2.0 16V Flex Aut.</version>
+<year>2020</year>
+<mileage>
+<value>100333</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/850845/gb-496ec82.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/850845/gb-7c32906.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/850845/gb-6d977fd.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/850845/gb-6b83c49.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/850845/gb-147680c.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/850845/gb-457a69c.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/850845/gb-7382063.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/850845/gb-b1ad365.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/850845/gb-d3273e4.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/850845/gb-6d1ebd5.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>OTHER</transmission>
+<price>99900 BRL</price>
+<sale_price>99900 BRL</sale_price>
+<exterior_color>branca</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>853674</vehicle_id>
+<body_style>OTHER</body_style>
+<title>KICKS Active S 1.6 16V Flex Aut.</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/853674/kicks-active-s-1-6-16v-flex-aut
+</url>
+<make>Nissan</make>
+<model>KICKS</model>
+<version>KICKS Active S 1.6 16V Flex Aut.</version>
+<year>2021</year>
+<mileage>
+<value>108087</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/853674/gb-4f06d5b.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/853674/gb-f08415b.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/853674/gb-9304d89.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/853674/gb-742cae2.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/853674/gb-3d70a2c.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/853674/gb-5a2d820.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/853674/gb-9f06aea.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/853674/gb-b8c1b9b.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/853674/gb-2c26dab.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/853674/gb-c363906.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>OTHER</transmission>
+<price>88900 BRL</price>
+<sale_price>88900 BRL</sale_price>
+<exterior_color>prata</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>854808</vehicle_id>
+<body_style>OTHER</body_style>
+<title>EcoSport FREESTYLE 1.5 12V Flex 5p Aut.</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/854808/ecosport-freestyle-1-5-12v-flex-5p-aut
+</url>
+<make>Ford</make>
+<model>EcoSport</model>
+<version>EcoSport FREESTYLE 1.5 12V Flex 5p Aut.</version>
+<year>2018</year>
+<mileage>
+<value>81318</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/854808/gb-0ca784b.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/854808/gb-1974a99.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/854808/gb-d156508.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/854808/gb-3e84448.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/854808/gb-4c1f1c3.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/854808/gb-e7a1fc7.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/854808/gb-b8e7730.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/854808/gb-eaaf12c.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/854808/gb-c73fb1b.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/854808/gb-1e9b92a.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>AUTOMATIC</transmission>
+<price>72900 BRL</price>
+<sale_price>72900 BRL</sale_price>
+<exterior_color>branca</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>858121</vehicle_id>
+<body_style>OTHER</body_style>
+<title>Saveiro CROSS 1.6 T.Flex 16V CD</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/858121/saveiro-cross-1-6-t-flex-16v-cd
+</url>
+<make>VW - VolksWagen</make>
+<model>Saveiro</model>
+<version>Saveiro CROSS 1.6 T.Flex 16V CD</version>
+<year>2015</year>
+<mileage>
+<value>127700</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/858121/gb-fa4d384.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/858121/gb-e9aebc4.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/858121/gb-89d8944.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/858121/gb-496d13a.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/858121/gb-65e0585.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/858121/gb-e36628f.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/858121/gb-0f27d32.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/858121/gb-1f47973.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/858121/gb-dd6bf23.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/858121/gb-03fa38a.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>OTHER</transmission>
+<price>72900 BRL</price>
+<sale_price>72900 BRL</sale_price>
+<exterior_color>prata</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>858122</vehicle_id>
+<body_style>OTHER</body_style>
+<title>VIRTUS TSI 1.0 Flex 12V 4p Aut.</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/858122/virtus-tsi-1-0-flex-12v-4p-aut
+</url>
+<make>VW - VolksWagen</make>
+<model>VIRTUS</model>
+<version>VIRTUS TSI 1.0 Flex 12V 4p Aut.</version>
+<year>2024</year>
+<mileage>
+<value>73676</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/858122/gb-ca8e802.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/858122/gb-1dbe2b1.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/858122/gb-893aedc.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/858122/gb-360c954.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/858122/gb-ab96602.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/858122/gb-4ade1de.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/858122/gb-ea26ef1.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/858122/gb-e15253d.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/858122/gb-6f808ec.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/858122/gb-e9f3db3.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>AUTOMATIC</transmission>
+<price>99900 BRL</price>
+<sale_price>99900 BRL</sale_price>
+<exterior_color>prata</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>867910</vehicle_id>
+<body_style>OTHER</body_style>
+<title>Fox City 1.0Mi/ 1.0Mi Total Flex 8V 3p</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/867910/fox-city-1-0mi-1-0mi-total-flex-8v-3p
+</url>
+<make>VW - VolksWagen</make>
+<model>Fox</model>
+<version>Fox City 1.0Mi/ 1.0Mi Total Flex 8V 3p</version>
+<year>2008</year>
+<mileage>
+<value>150348</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/867910/gb-61e25f4.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/867910/gb-1ea9531.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/867910/gb-b89e216.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/867910/gb-8ea5f23.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/867910/gb-40abf95.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/867910/gb-0a97afe.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/867910/gb-ba988d4.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/867910/gb-ede26a4.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/867910/gb-429276b.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/867910/gb-370d9b7.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>MANUAL</transmission>
+<price>23900 BRL</price>
+<sale_price>23900 BRL</sale_price>
+<exterior_color>bege</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>875387</vehicle_id>
+<body_style>OTHER</body_style>
+<title>Strada Adventure1.8/ 1.8 LOCKER Flex CD</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/875387/strada-adventure1-8-1-8-locker-flex-cd
+</url>
+<make>Fiat</make>
+<model>Strada</model>
+<version>Strada Adventure1.8/ 1.8 LOCKER Flex CD</version>
+<year>2020</year>
+<mileage>
+<value>89461</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/875387/gb-04e9854.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/875387/gb-7d154c5.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/875387/gb-b1f2190.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/875387/gb-a02a2cf.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/875387/gb-4e7d07c.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/875387/gb-27381a2.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/875387/gb-6708fd4.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/875387/gb-9abb6ed.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/875387/gb-8c89b99.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>MANUAL</transmission>
+<price>83900 BRL</price>
+<sale_price>83900 BRL</sale_price>
+<exterior_color>branca</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>877209</vehicle_id>
+<body_style>OTHER</body_style>
+<title>SPIN LTZ 1.8 8V Econo.Flex 5p Aut.</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/877209/spin-ltz-1-8-8v-econo-flex-5p-aut
+</url>
+<make>GM - Chevrolet</make>
+<model>SPIN</model>
+<version>SPIN LTZ 1.8 8V Econo.Flex 5p Aut.</version>
+<year>2015</year>
+<mileage>
+<value>149509</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877209/gb-b41e67a.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877209/gb-04c56ae.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877209/gb-47f3dcd.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877209/gb-5d80502.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877209/gb-213964a.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877209/gb-3c18427.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877209/gb-efef2f1.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877209/gb-b9eb2fa.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877209/gb-2a661eb.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877209/gb-b167c9b.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>OTHER</transmission>
+<price>58900 BRL</price>
+<sale_price>58900 BRL</sale_price>
+<exterior_color>prata</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>877581</vehicle_id>
+<body_style>OTHER</body_style>
+<title>Sonata 2.4 16V 182cv 4p Aut.</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/877581/sonata-2-4-16v-182cv-4p-aut
+</url>
+<make>Hyundai</make>
+<model>Sonata</model>
+<version>Sonata 2.4 16V 182cv 4p Aut.</version>
+<year>2012</year>
+<mileage>
+<value>194380</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877581/gb-d00c1f6.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877581/gb-f4023cd.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877581/gb-eba3836.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877581/gb-82bc1a3.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877581/gb-a81adb8.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877581/gb-3a0a1c8.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877581/gb-f64f6e7.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877581/gb-cacf5e4.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>GASOLINE</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>AUTOMATIC</transmission>
+<price>68900 BRL</price>
+<sale_price>68900 BRL</sale_price>
+<exterior_color>preta</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>877936</vehicle_id>
+<body_style>OTHER</body_style>
+<title>ONIX HATCH 1.0 12V Flex 5p Mec.</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/877936/onix-hatch-1-0-12v-flex-5p-mec
+</url>
+<make>GM - Chevrolet</make>
+<model>ONIX</model>
+<version>ONIX HATCH 1.0 12V Flex 5p Mec.</version>
+<year>2021</year>
+<mileage>
+<value>54780</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877936/gb-3b4ff1b.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877936/gb-22c05de.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877936/gb-1bae821.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877936/gb-32ef37f.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877936/gb-8e6f76e.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877936/gb-efcd83a.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877936/gb-66f3e7c.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877936/gb-a42c38f.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877936/gb-7efe4b4.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/877936/gb-30a76cb.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>MANUAL</transmission>
+<price>61900 BRL</price>
+<sale_price>61900 BRL</sale_price>
+<exterior_color>azul</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>882842</vehicle_id>
+<body_style>OTHER</body_style>
+<title>MOBI LIKE 1.0 Fire Flex 5p.</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/882842/mobi-like-1-0-fire-flex-5p
+</url>
+<make>Fiat</make>
+<model>MOBI</model>
+<version>MOBI LIKE 1.0 Fire Flex 5p.</version>
+<year>2023</year>
+<mileage>
+<value>45518</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/882842/gb-f515c02.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/882842/gb-8cb6824.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/882842/gb-59fd35e.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/882842/gb-4a8cdfa.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/882842/gb-49d0d29.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/882842/gb-dfa0c6c.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/882842/gb-188f982.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/882842/gb-7312809.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/882842/gb-0d8de16.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>GASOLINE</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>OTHER</transmission>
+<price>55900 BRL</price>
+<sale_price>55900 BRL</sale_price>
+<exterior_color>cinza</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>898284</vehicle_id>
+<body_style>OTHER</body_style>
+<title>Corsa Hat. Premium 1.4 8V ECONOFLEX 5p</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/898284/corsa-hat-premium-1-4-8v-econoflex-5p
+</url>
+<make>GM - Chevrolet</make>
+<model>Corsa</model>
+<version>Corsa Hat. Premium 1.4 8V ECONOFLEX 5p</version>
+<year>2010</year>
+<mileage>
+<value>192326</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/898284/gb-326729d.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/898284/gb-5303942.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/898284/gb-a4580a0.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/898284/gb-1c9253e.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/898284/gb-a4af5e0.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/898284/gb-62653bb.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/898284/gb-2e755c1.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/898284/gb-eec1426.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/898284/gb-37ed616.jpeg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>MANUAL</transmission>
+<price>29900 BRL</price>
+<sale_price>29900 BRL</sale_price>
+<exterior_color>prata</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
+<listing>
+<vehicle_id>921553</vehicle_id>
+<body_style>OTHER</body_style>
+<title>Polo Track 1.0 Flex 12V 5p</title>
+<description>Sema Motors</description>
+<url>
+https://semamotors.com.br/veiculo/921553/polo-track-1-0-flex-12v-5p
+</url>
+<make>VW - VolksWagen</make>
+<model>Polo</model>
+<version>Polo Track 1.0 Flex 12V 5p</version>
+<year>2024</year>
+<mileage>
+<value>54350</value>
+<unit>KM</unit>
+</mileage>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/921553/gb-d9b4ac4.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/921553/gb-67cd815.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/921553/gb-9c14026.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/921553/gb-2bdc372.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/921553/gb-72b25be.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/921553/gb-68ecdfb.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/921553/gb-538c2c7.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/921553/gb-9c99f2d.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<image>
+<url>
+https://arquivos.boomsistemas.com.br/veiculos/2026/921553/gb-96a8685.jpg
+</url>
+<tag>Exterior</tag>
+</image>
+<fuel_type>FLEX</fuel_type>
+<state_of_vehicle>Used</state_of_vehicle>
+<transmission>MANUAL</transmission>
+<price>71900 BRL</price>
+<sale_price>71900 BRL</sale_price>
+<exterior_color>cinza</exterior_color>
+<address format="simple">
+<component name="addr1">Av. Guilherme Ferreira 1084</component>
+<component name="city">Uberada</component>
+<component name="region">MG</component>
+<component name="postal_code">38022200</component>
+<component name="country">BR</component>
+</address>
+<latitude/>
+<longitude/>
+</listing>
 </listings>

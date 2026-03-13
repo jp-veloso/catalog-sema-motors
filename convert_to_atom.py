@@ -77,8 +77,12 @@ def convert():
         mileage_value = get_text(mileage_el, "value") if mileage_el is not None else ""
         mileage_unit = get_text(mileage_el, "unit") if mileage_el is not None else "KM"
 
-        image_url_el = listing.find("image/url")
-        image_url = image_url_el.text.strip() if (image_url_el is not None and image_url_el.text) else ""
+        image_urls = [
+            img.find("url").text.strip()
+            for img in listing.findall("image")
+            if img.find("url") is not None and img.find("url").text
+        ]
+        image_url = image_urls[0] if image_urls else ""
 
         # Campos padrão do Atom
         ET.SubElement(entry, atom("id")).text = vehicle_id
@@ -95,6 +99,8 @@ def convert():
         ET.SubElement(entry, g("year")).text = year
         ET.SubElement(entry, g("price")).text = price
         ET.SubElement(entry, g("image_link")).text = image_url
+        for extra_url in image_urls[1:]:
+            ET.SubElement(entry, g("additional_image_link")).text = extra_url
         ET.SubElement(entry, g("link")).text = url
         ET.SubElement(entry, g("description")).text = description
         ET.SubElement(entry, g("body_style")).text = body_style
