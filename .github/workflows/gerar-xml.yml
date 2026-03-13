@@ -1,0 +1,32 @@
+name: Gerar Catalog Atom XML
+
+on:
+  schedule:
+    - cron: '0 11 * * *'  # 08:00 Brasil (GMT-3)
+    - cron: '0 17 * * *'  # 14:00 Brasil (GMT-3)
+    - cron: '0 23 * * *'  # 20:00 Brasil (GMT-3)
+  workflow_dispatch:       # Permite rodar manualmente pelo painel do GitHub
+
+jobs:
+  gerar-xml:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Rodar script de conversão
+        run: python convert_to_atom.py
+
+      - name: Commit e push do XML atualizado
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add catalog-atom.xml
+          git diff --staged --quiet || git commit -m "Atualiza catalog-atom.xml - $(TZ='America/Sao_Paulo' date '+%d/%m/%Y %H:%M') (BRT)"
+          git push
