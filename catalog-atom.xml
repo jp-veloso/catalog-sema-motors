@@ -3,13 +3,13 @@
   <title>Estoque Veículos</title>
   <link href="https://semamotors.com.br" />
   <id>https://semamotors.com.br</id>
-  <updated>2026-06-29T14:40:20Z</updated>
+  <updated>2026-06-29T19:04:27Z</updated>
   <entry>
     <id>833968</id>
     <title>PRISMA Sed. LTZ 1.4 8V FlexPower 4p</title>
     <summary>Sema Motors</summary>
     <link href="https://semamotors.com.br/veiculo/833968/prisma-sed-ltz-1-4-8v-flexpower-4p" />
-    <updated>2026-06-29T14:40:20Z</updated>
+    <updated>2026-06-29T19:04:27Z</updated>
     <g:id>833968</g:id>
     <g:make>GM - Chevrolet</g:make>
     <g:model>PRISMA</g:model>
@@ -42,7 +42,7 @@
     <title>CRONOS DRIVE 1.3 8V Flex</title>
     <summary>Sema Motors</summary>
     <link href="https://semamotors.com.br/veiculo/834003/cronos-drive-1-3-8v-flex" />
-    <updated>2026-06-29T14:40:20Z</updated>
+    <updated>2026-06-29T19:04:27Z</updated>
     <g:id>834003</g:id>
     <g:make>Fiat</g:make>
     <g:model>CRONOS</g:model>
@@ -72,45 +72,11 @@
     </g:mileage>
   </entry>
   <entry>
-    <id>834014</id>
-    <title>CRONOS 1.3 8V Flex</title>
-    <summary>Sema Motors</summary>
-    <link href="https://semamotors.com.br/veiculo/834014/cronos-1-3-8v-flex" />
-    <updated>2026-06-29T14:40:20Z</updated>
-    <g:id>834014</g:id>
-    <g:make>Fiat</g:make>
-    <g:model>CRONOS</g:model>
-    <g:year>2019</g:year>
-    <g:price>59900 BRL</g:price>
-    <g:image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/834014/gb-e705e3f.jpg</g:image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2025/834014/gb-9a8664b.jpg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2025/834014/gb-31002f0.jpg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2025/834014/gb-1f4dd0f.jpg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2025/834014/gb-1f3ff4e.jpg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2025/834014/gb-831dbf0.jpg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2025/834014/gb-e3c733b.jpg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2025/834014/gb-1c4d2e0.jpg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2025/834014/gb-9f34e18.jpg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2025/834014/gb-bcba48d.jpg</g:additional_image_link>
-    <g:link>https://semamotors.com.br/veiculo/834014/cronos-1-3-8v-flex</g:link>
-    <g:description>Sema Motors</g:description>
-    <g:body_style>OTHER</g:body_style>
-    <g:fuel_type>FLEX</g:fuel_type>
-    <g:state_of_vehicle>Used</g:state_of_vehicle>
-    <g:transmission>MANUAL</g:transmission>
-    <g:exterior_color>preta</g:exterior_color>
-    <g:availability>in stock</g:availability>
-    <g:mileage>
-      <g:value>112342</g:value>
-      <g:unit>KM</g:unit>
-    </g:mileage>
-  </entry>
-  <entry>
     <id>834038</id>
     <title>PULSE DRIVE 1.3 8V Flex Aut.</title>
     <summary>Sema Motors</summary>
     <link href="https://semamotors.com.br/veiculo/834038/pulse-drive-1-3-8v-flex-aut" />
-    <updated>2026-06-29T14:40:20Z</updated>
+    <updated>2026-06-29T19:04:27Z</updated>
     <g:id>834038</g:id>
     <g:make>Fiat</g:make>
     <g:model>PULSE</g:model>
@@ -140,45 +106,11 @@
     </g:mileage>
   </entry>
   <entry>
-    <id>834178</id>
-    <title>DUSTER Dynamique 1.6 Flex 16V Mec.</title>
-    <summary>Sema Motors</summary>
-    <link href="https://semamotors.com.br/veiculo/834178/duster-dynamique-1-6-flex-16v-mec" />
-    <updated>2026-06-29T14:40:20Z</updated>
-    <g:id>834178</g:id>
-    <g:make>Renault</g:make>
-    <g:model>DUSTER</g:model>
-    <g:year>2013</g:year>
-    <g:price>49900 BRL</g:price>
-    <g:image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/834178/gb-64af9f3.jpg</g:image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2025/834178/gb-a44a22d.jpg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2025/834178/gb-8709c3b.jpg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2025/834178/gb-dde9a07.jpg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2025/834178/gb-4594833.jpg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2025/834178/gb-698e567.jpg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2025/834178/gb-96c3caa.jpg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2025/834178/gb-2b4042c.jpg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2025/834178/gb-47fec38.jpg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2025/834178/gb-a2f9e94.jpg</g:additional_image_link>
-    <g:link>https://semamotors.com.br/veiculo/834178/duster-dynamique-1-6-flex-16v-mec</g:link>
-    <g:description>Sema Motors</g:description>
-    <g:body_style>OTHER</g:body_style>
-    <g:fuel_type>FLEX</g:fuel_type>
-    <g:state_of_vehicle>Used</g:state_of_vehicle>
-    <g:transmission>MANUAL</g:transmission>
-    <g:exterior_color>prata</g:exterior_color>
-    <g:availability>in stock</g:availability>
-    <g:mileage>
-      <g:value>125522</g:value>
-      <g:unit>KM</g:unit>
-    </g:mileage>
-  </entry>
-  <entry>
     <id>835266</id>
     <title>Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.</title>
     <summary>Sema Motors</summary>
     <link href="https://semamotors.com.br/veiculo/835266/fit-ex-s-1-5-flex-flexone-16v-5p-aut" />
-    <updated>2026-06-29T14:40:20Z</updated>
+    <updated>2026-06-29T19:04:27Z</updated>
     <g:id>835266</g:id>
     <g:make>Honda</g:make>
     <g:model>Fit</g:model>
@@ -212,7 +144,7 @@
     <title>Fiesta 1.0 8V Flex/Class 1.0 8V Flex 5p</title>
     <summary>Sema Motors</summary>
     <link href="https://semamotors.com.br/veiculo/847068/fiesta-1-0-8v-flex-class-1-0-8v-flex-5p" />
-    <updated>2026-06-29T14:40:20Z</updated>
+    <updated>2026-06-29T19:04:27Z</updated>
     <g:id>847068</g:id>
     <g:make>Ford</g:make>
     <g:model>Fiesta</g:model>
@@ -246,7 +178,7 @@
     <title>2008 Allure 1.6 Flex 16V 5p Aut.</title>
     <summary>Sema Motors</summary>
     <link href="https://semamotors.com.br/veiculo/848266/2008-allure-1-6-flex-16v-5p-aut" />
-    <updated>2026-06-29T14:40:20Z</updated>
+    <updated>2026-06-29T19:04:27Z</updated>
     <g:id>848266</g:id>
     <g:make>Peugeot</g:make>
     <g:model>2008</g:model>
@@ -280,7 +212,7 @@
     <title>EcoSport FREESTYLE 1.5 12V Flex 5p Aut.</title>
     <summary>Sema Motors</summary>
     <link href="https://semamotors.com.br/veiculo/854808/ecosport-freestyle-1-5-12v-flex-5p-aut" />
-    <updated>2026-06-29T14:40:20Z</updated>
+    <updated>2026-06-29T19:04:27Z</updated>
     <g:id>854808</g:id>
     <g:make>Ford</g:make>
     <g:model>EcoSport</g:model>
@@ -314,13 +246,22 @@
     <title>Fox City 1.0Mi/ 1.0Mi Total Flex 8V 3p</title>
     <summary>Sema Motors</summary>
     <link href="https://semamotors.com.br/veiculo/867910/fox-city-1-0mi-1-0mi-total-flex-8v-3p" />
-    <updated>2026-06-29T14:40:20Z</updated>
+    <updated>2026-06-29T19:04:27Z</updated>
     <g:id>867910</g:id>
     <g:make>VW - VolksWagen</g:make>
     <g:model>Fox</g:model>
     <g:year>2008</g:year>
     <g:price>23900 BRL</g:price>
-    <g:image_link />
+    <g:image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/867910/gb-61e25f4.jpg</g:image_link>
+    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/867910/gb-1ea9531.jpg</g:additional_image_link>
+    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/867910/gb-b89e216.jpg</g:additional_image_link>
+    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/867910/gb-8ea5f23.jpg</g:additional_image_link>
+    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/867910/gb-40abf95.jpg</g:additional_image_link>
+    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/867910/gb-0a97afe.jpg</g:additional_image_link>
+    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/867910/gb-ba988d4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/867910/gb-ede26a4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/867910/gb-429276b.jpg</g:additional_image_link>
+    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/867910/gb-370d9b7.jpg</g:additional_image_link>
     <g:link>https://semamotors.com.br/veiculo/867910/fox-city-1-0mi-1-0mi-total-flex-8v-3p</g:link>
     <g:description>Sema Motors</g:description>
     <g:body_style>OTHER</g:body_style>
@@ -339,7 +280,7 @@
     <title>Strada Adventure1.8/ 1.8 LOCKER Flex CD</title>
     <summary>Sema Motors</summary>
     <link href="https://semamotors.com.br/veiculo/875387/strada-adventure1-8-1-8-locker-flex-cd" />
-    <updated>2026-06-29T14:40:20Z</updated>
+    <updated>2026-06-29T19:04:27Z</updated>
     <g:id>875387</g:id>
     <g:make>Fiat</g:make>
     <g:model>Strada</g:model>
@@ -373,7 +314,7 @@
     <title>MOBI LIKE 1.0 Fire Flex 5p.</title>
     <summary>Sema Motors</summary>
     <link href="https://semamotors.com.br/veiculo/882842/mobi-like-1-0-fire-flex-5p" />
-    <updated>2026-06-29T14:40:20Z</updated>
+    <updated>2026-06-29T19:04:27Z</updated>
     <g:id>882842</g:id>
     <g:make>Fiat</g:make>
     <g:model>MOBI</g:model>
@@ -406,7 +347,7 @@
     <title>HB20 Unique 1.0 Flex 12V Mec.</title>
     <summary>Sema Motors</summary>
     <link href="https://semamotors.com.br/veiculo/912691/hb20-unique-1-0-flex-12v-mec" />
-    <updated>2026-06-29T14:40:20Z</updated>
+    <updated>2026-06-29T19:04:27Z</updated>
     <g:id>912691</g:id>
     <g:make>Hyundai</g:make>
     <g:model>HB20</g:model>
@@ -437,7 +378,7 @@
     <title>C3 Tendance 1.5 Flex 8V 5p Mec.</title>
     <summary>Sema Motors</summary>
     <link href="https://semamotors.com.br/veiculo/926298/c3-tendance-1-5-flex-8v-5p-mec" />
-    <updated>2026-06-29T14:40:20Z</updated>
+    <updated>2026-06-29T19:04:27Z</updated>
     <g:id>926298</g:id>
     <g:make>Citroen</g:make>
     <g:model>C3</g:model>
@@ -469,7 +410,7 @@
     <title>ONIX HATCH PREM. 1.0 12V TB Flex 5p Aut.</title>
     <summary>Sema Motors</summary>
     <link href="https://semamotors.com.br/veiculo/953831/onix-hatch-prem-1-0-12v-tb-flex-5p-aut" />
-    <updated>2026-06-29T14:40:20Z</updated>
+    <updated>2026-06-29T19:04:27Z</updated>
     <g:id>953831</g:id>
     <g:make>GM - Chevrolet</g:make>
     <g:model>ONIX</g:model>
@@ -503,7 +444,7 @@
     <title>Polo 1.0 MPI Flex 12V 5p</title>
     <summary>Sema Motors</summary>
     <link href="https://semamotors.com.br/veiculo/968698/polo-1-0-mpi-flex-12v-5p" />
-    <updated>2026-06-29T14:40:20Z</updated>
+    <updated>2026-06-29T19:04:27Z</updated>
     <g:id>968698</g:id>
     <g:make>VW - VolksWagen</g:make>
     <g:model>Polo</g:model>
@@ -537,7 +478,7 @@
     <title>ONIX HATCH LT 1.0 12V Flex 5p Mec.</title>
     <summary>Sema Motors</summary>
     <link href="https://semamotors.com.br/veiculo/984843/onix-hatch-lt-1-0-12v-flex-5p-mec" />
-    <updated>2026-06-29T14:40:20Z</updated>
+    <updated>2026-06-29T19:04:27Z</updated>
     <g:id>984843</g:id>
     <g:make>GM - Chevrolet</g:make>
     <g:model>ONIX</g:model>
@@ -571,7 +512,7 @@
     <title>Strada Volcano 1.3 Flex 8V CD</title>
     <summary>Sema Motors</summary>
     <link href="https://semamotors.com.br/veiculo/996193/strada-volcano-1-3-flex-8v-cd" />
-    <updated>2026-06-29T14:40:20Z</updated>
+    <updated>2026-06-29T19:04:27Z</updated>
     <g:id>996193</g:id>
     <g:make>Fiat</g:make>
     <g:model>Strada</g:model>
@@ -601,60 +542,17 @@
     </g:mileage>
   </entry>
   <entry>
-    <id>998869</id>
-    <title>Corolla XEi 1.8/1.8 Flex 16V Aut.</title>
-    <summary>Sema Motors</summary>
-    <link href="https://semamotors.com.br/veiculo/998869/corolla-xei-1-8-1-8-flex-16v-aut" />
-    <updated>2026-06-29T14:40:20Z</updated>
-    <g:id>998869</g:id>
-    <g:make>Toyota</g:make>
-    <g:model>Corolla</g:model>
-    <g:year>2010</g:year>
-    <g:price>58900 BRL</g:price>
-    <g:image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/998869/gb-23d0695.jpeg</g:image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/998869/gb-b36ff1f.jpeg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/998869/gb-2d4aa00.jpeg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/998869/gb-665903d.jpeg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/998869/gb-71d9f0c.jpeg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/998869/gb-d107d57.jpeg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/998869/gb-9942c10.jpeg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/998869/gb-42d4156.jpeg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/998869/gb-4b84854.jpeg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/998869/gb-565e232.jpeg</g:additional_image_link>
-    <g:link>https://semamotors.com.br/veiculo/998869/corolla-xei-1-8-1-8-flex-16v-aut</g:link>
-    <g:description>Sema Motors</g:description>
-    <g:body_style>OTHER</g:body_style>
-    <g:fuel_type>FLEX</g:fuel_type>
-    <g:state_of_vehicle>Used</g:state_of_vehicle>
-    <g:transmission>AUTOMATIC</g:transmission>
-    <g:exterior_color>preta</g:exterior_color>
-    <g:availability>in stock</g:availability>
-    <g:mileage>
-      <g:value>123832</g:value>
-      <g:unit>KM</g:unit>
-    </g:mileage>
-  </entry>
-  <entry>
     <id>1000276</id>
     <title>Fox Plus 1.6Mi/ 1.6Mi Total Flex 8V 4p</title>
     <summary>Sema Motors</summary>
     <link href="https://semamotors.com.br/veiculo/1000276/fox-plus-1-6mi-1-6mi-total-flex-8v-4p" />
-    <updated>2026-06-29T14:40:20Z</updated>
+    <updated>2026-06-29T19:04:27Z</updated>
     <g:id>1000276</g:id>
     <g:make>VW - VolksWagen</g:make>
     <g:model>Fox</g:model>
     <g:year>2006</g:year>
     <g:price>26900 BRL</g:price>
-    <g:image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/1000276/gb-b0995dd.jpeg</g:image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/1000276/gb-590be81.jpeg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/1000276/gb-0b515f0.jpeg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/1000276/gb-83ba69a.jpeg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/1000276/gb-ff7b86f.jpeg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/1000276/gb-e01c52a.jpeg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/1000276/gb-7a2caf8.jpeg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/1000276/gb-88b4255.jpeg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/1000276/gb-d0c6144.jpeg</g:additional_image_link>
-    <g:additional_image_link>https://arquivos.boomsistemas.com.br/veiculos/2026/1000276/gb-c7c1383.jpeg</g:additional_image_link>
+    <g:image_link />
     <g:link>https://semamotors.com.br/veiculo/1000276/fox-plus-1-6mi-1-6mi-total-flex-8v-4p</g:link>
     <g:description>Sema Motors</g:description>
     <g:body_style>OTHER</g:body_style>
